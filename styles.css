@@ -1,0 +1,34 @@
+img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  font-family: "georgia", arial;
+  text-align: center;
+}
+
+body {
+  background-color: cyan;
+  font-family: arial;
+}
+
+#tribute-info {
+  font-size: 20px;
+  margin-top: 1%;
+  background-color: #ffeeff;
+  padding: 2px 4px 4px 2px;
+}
+
+#tribute-info-timeline {
+  font-size: 19px;
+  text-align: auto;
+  display: inlineblock;
+  margin: 10px auto auto 10px;
+}
+
+figcaption {
+  text-align: center;
+}
